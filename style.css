@@ -1,0 +1,21 @@
+body{
+    background-image: url(DSC06616.webp);
+    background-position: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.form-control {
+    border-radius: 6px;
+}
+
+
+.container {
+    font-size: 17px;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.85);
+    border-radius: 10px;
+    padding: 20px;
+}
